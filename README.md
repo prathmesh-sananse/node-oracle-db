@@ -18,6 +18,4 @@ My steps so far:
 1] I set up a hosted oracle database trial account [ https://cloud.oracle.com/database ]
 2] Created a Javascript app on bluemix
 3] Included the Oracle NPM module in my package [ npm install oracledb --save ]
-4] Needed to download the local client to my mac, needed to update path variables:
-
 https://github.com/oracle/node-oracledb/issues/318
