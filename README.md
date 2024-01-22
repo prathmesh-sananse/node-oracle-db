@@ -16,6 +16,9 @@ The Node.js Starter demonstrates a simple, reusable Node.js web application base
 My steps so far:
 
 1] I set up a hosted oracle database trial account [ https://cloud.oracle.com/database ]
+
 2] Created a Javascript app on bluemix
+
 3] Included the Oracle NPM module in my package [ npm install oracledb --save ]
+
 https://github.com/oracle/node-oracledb/issues/318
